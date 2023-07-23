@@ -85,7 +85,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -146,7 +146,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -207,7 +207,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -272,7 +272,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -337,7 +337,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -405,7 +405,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -477,7 +477,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -539,7 +539,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -605,7 +605,7 @@
         "showThresholdLabels": false,
         "showThresholdMarkers": true
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -666,7 +666,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -727,7 +727,7 @@
         },
         "textMode": "auto"
       },
-      "pluginVersion": "9.5.2",
+      "pluginVersion": "10.0.2",
       "targets": [
         {
           "datasource": {
@@ -1774,7 +1774,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -1866,7 +1867,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -1957,7 +1959,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2061,7 +2064,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               }
             ]
           },
@@ -2149,7 +2153,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2241,7 +2246,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2332,7 +2338,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2437,7 +2444,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2542,7 +2550,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2634,7 +2643,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2727,7 +2737,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2818,7 +2829,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -2909,7 +2921,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3001,7 +3014,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3093,7 +3107,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3185,7 +3200,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3290,7 +3306,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3328,7 +3345,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by(exported_service,host,ingress) (rate(nginx_ingress_controller_requests[1m]))",
+          "expr": "sum by(exported_service,host,ingress) (irate(nginx_ingress_controller_requests[1m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -3382,7 +3399,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3420,7 +3438,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (exported_namespace,exported_service,host,ingress) (rate(nginx_ingress_controller_request_duration_seconds_sum[1m])) / sum by (exported_namespace,exported_service,host,ingress) (rate(nginx_ingress_controller_request_duration_seconds_count[1m]))",
+          "expr": "sum by (exported_namespace,exported_service,host,ingress) (irate(nginx_ingress_controller_request_duration_seconds_sum[5m])) / sum by (exported_namespace,exported_service,host,ingress) (irate(nginx_ingress_controller_request_duration_seconds_count[5m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -3474,7 +3492,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3512,7 +3531,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (exported_namespace,exported_service,host,ingress) (rate(nginx_ingress_controller_response_duration_seconds_sum[1m])) / sum by (exported_namespace,exported_service,host,ingress) (rate(nginx_ingress_controller_response_duration_seconds_count[1m]))",
+          "expr": "sum by (exported_namespace,exported_service,host,ingress) (irate(nginx_ingress_controller_response_duration_seconds_sum[5m])) / sum by (exported_namespace,exported_service,host,ingress) (irate(nginx_ingress_controller_response_duration_seconds_count[5m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -3569,7 +3588,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3607,7 +3627,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (exported_namespace,host,ingress,path,method,status) (rate(nginx_ingress_controller_request_duration_seconds_sum[1m])) / sum by (exported_namespace,host,ingress,path,method,status) (rate(nginx_ingress_controller_request_duration_seconds_count[1m]))",
+          "expr": "sum by (exported_namespace,host,ingress,path,method,status) (irate(nginx_ingress_controller_request_duration_seconds_sum[5m])) / sum by (exported_namespace,host,ingress,path,method,status) (irate(nginx_ingress_controller_request_duration_seconds_count[5m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -3661,7 +3681,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3699,7 +3720,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (exported_namespace,host,ingress,path,method,status) (rate(nginx_ingress_controller_response_duration_seconds_sum[1m])) / sum by (exported_namespace,host,ingress,path,method,status) (rate(nginx_ingress_controller_response_duration_seconds_count[1m]))",
+          "expr": "sum by (exported_namespace,host,ingress,path,method,status) (irate(nginx_ingress_controller_response_duration_seconds_sum[5m])) / sum by (exported_namespace,host,ingress,path,method,status) (irate(nginx_ingress_controller_response_duration_seconds_count[5m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -3753,7 +3774,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3858,7 +3880,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -3921,7 +3944,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (app,container) (rate(http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container) (rate(http_request_duration_seconds_count{namespace='backend'}[1m]))",
+          "expr": "sum by (app,container) (irate(http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container) (irate(http_request_duration_seconds_count{namespace='backend'}[1m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -3975,7 +3998,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4013,7 +4037,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by(namespace,container) (rate(http_request_total{namespace='backend'}[1m]))",
+          "expr": "sum by(namespace,container) (irate(http_request_total{namespace='backend'}[1m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -4067,7 +4091,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4105,7 +4130,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (app,container,method,route,code) (rate(http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container,method,route,code) (rate(http_request_duration_seconds_count{namespace='backend'}[1m]))",
+          "expr": "sum by (app,container,method,route,code) (irate(http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container,method,route,code) (irate(http_request_duration_seconds_count{namespace='backend'}[1m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -4159,7 +4184,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4197,7 +4223,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum without(app,job,namespace,container) (histogram_quantile(0.95, sum (rate(http_request_duration_seconds_bucket{namespace='backend'}[1m])) by (app,container,job,le,namespace,pod,route)))",
+          "expr": "sum without(app,job,namespace,container) (histogram_quantile(0.95, sum (irate(http_request_duration_seconds_bucket{namespace='backend'}[1m])) by (app,container,job,le,namespace,pod,route)))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -4251,7 +4277,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4343,7 +4370,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4381,7 +4409,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum without(container,namespace) (sum by(namespace,container,method,route) (rate(http_request_total{namespace='backend',code=~\"5..\"}[5m])))",
+          "expr": "sum without(container,namespace) (sum by(namespace,container,method,route) (irate(http_request_total{namespace='backend',code=~\"5..\"}[5m])))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -4435,7 +4463,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4473,7 +4502,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by(namespace,container,method,route) (rate(http_request_total{namespace='backend',code=~\"5..\"}[1m])) / sum by(namespace,container,method,route) (rate(http_request_total{namespace='backend'}[1m]))",
+          "expr": "sum by(namespace,container,method,route) (irate(http_request_total{namespace='backend',code=~\"5..\"}[1m])) / sum by(namespace,container,method,route) (irate(http_request_total{namespace='backend'}[1m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -4540,7 +4569,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4578,7 +4608,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (app,container) (rate(standard_http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container) (rate(standard_http_request_duration_seconds_count{namespace='backend'}[1m]))",
+          "expr": "sum by (app,container) (irate(standard_http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container) (irate(standard_http_request_duration_seconds_count{namespace='backend'}[1m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -4632,7 +4662,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4670,7 +4701,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum by (app,container,method,route,code) (rate(standard_http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container,method,route,code) (rate(standard_http_request_duration_seconds_count{namespace='backend'}[1m]))",
+          "expr": "sum by (app,container,method,route,code) (irate(standard_http_request_duration_seconds_sum{namespace='backend'}[1m])) / sum by (app,container,method,route,code) (irate(standard_http_request_duration_seconds_count{namespace='backend'}[1m]))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
@@ -4724,7 +4755,8 @@
             "mode": "absolute",
             "steps": [
               {
-                "color": "green"
+                "color": "green",
+                "value": null
               },
               {
                 "color": "red",
@@ -4762,7 +4794,7 @@
             "uid": "prometheus"
           },
           "editorMode": "code",
-          "expr": "sum without(app,job,namespace,container) (histogram_quantile(0.95, sum (rate(standard_http_request_duration_seconds_bucket{namespace='backend'}[1m])) by (app,container,job,le,namespace,pod,route)))",
+          "expr": "sum without(app,job,namespace,container) (histogram_quantile(0.95, sum (irate(standard_http_request_duration_seconds_bucket{namespace='backend'}[1m])) by (app,container,job,le,namespace,pod,route)))",
           "legendFormat": "__auto",
           "range": true,
           "refId": "A"
